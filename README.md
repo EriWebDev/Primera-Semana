@@ -37,17 +37,17 @@
             </td>
         </td>
         <td class="total_time">
-            <p> horas.</p>
+            <p>8 horas.</p>
         </td>
         </tr>
         <tr>
             <td class="dates">20/03/2025</td>
             <td class="text">
-                <p>Write</p>
+                <p>Estudiar BeautifulSoup, hacer ejercicios de Python y terminar la tarea de Wikipedia.</p>
             </td>
         </td>
         <td class="total_time">
-            <p> horas.</p>
+            <p>8 horas.</p>
         </td>
         </tr>
         <tr>
