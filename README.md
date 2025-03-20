@@ -37,7 +37,7 @@
             </td>
         </td>
         <td class="total_time">
-            <p>7 horas.</p>
+            <p> horas.</p>
         </td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@
             </td>
         </td>
         <td class="total_time">
-            <p>7 horas.</p>
+            <p> horas.</p>
         </td>
         </tr>
         <tr>
@@ -56,7 +56,7 @@
                 <p>Write</p>
             </td>
         <td class="total_time">
-            <p>7 horas.</p>
+            <p> horas.</p>
         </td>
         </tr>
       </table>
