@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup   #importar biblioteca BeautifulSoup
 from requests import get    #importar función get()
 
-#indicar la URL para descargar el HTML en una lista
+#indicar la URL para descargar el HTML
 Greece = "https://es.wikipedia.org/wiki/Grecia"
 Italy = "https://es.wikipedia.org/wiki/Italia"
 
