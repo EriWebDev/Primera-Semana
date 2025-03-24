@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 class="Title">Primera Semana</h1>
-    <section>   
+    <h1 class="Title">Semanas</h1>
+    <section name="primera_semana">
+        <h2 class="Title">Primera Semana</h2>
       <table>
         <th class="name">Fecha</th>
         <th clasS="name">Tareas Realizadas</th>
@@ -53,7 +54,63 @@
         <tr>
             <td class="dates">21/03/2025</td>
             <td class="text">
-                <p>Write</p>
+                <p>Reunión. Buscar "regex cheatsheet" y Selenium Python. Ejercicios prácticos Python. Vídeos de Git.</p>
+            </td>
+        <td class="total_time">
+            <p>7 horas.</p>
+        </td>
+        </tr>
+      </table>
+    </section>
+    <section name="segunda_semana">
+        <h2 class="Title">Segunda Semana</h2>
+      <table>
+        <th class="name">Fecha</th>
+        <th clasS="name">Tareas Realizadas</th>
+        <th clasS="name">Horas</th>
+        <tr>
+            <td class="dates">24/03/2025</td>
+            <td class="text">
+                <p>Reunión. .</p>
+            </td>
+            <td class="total_time">
+                <p> horas.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="dates">25/03/2025</td>
+            <td class="text">
+                <p>R.</p>
+            </td>
+        </td>
+        <td class="total_time">
+            <p> horas.</p>
+        </td>
+        </tr>
+        <tr>
+            <td class="dates">26/03/2025</td>
+            <td class="text">
+                <p>Reunión. .</p>
+            </td>
+        </td>
+        <td class="total_time">
+            <p> horas.</p>
+        </td>
+        </tr>
+        <tr>
+            <td class="dates">27/03/2025</td>
+            <td class="text">
+                <p>E.</p>
+            </td>
+        </td>
+        <td class="total_time">
+            <p> horas.</p>
+        </td>
+        </tr>
+        <tr>
+            <td class="dates">28/03/2025</td>
+            <td class="text">
+                <p>Reunión. .</p>
             </td>
         <td class="total_time">
             <p> horas.</p>
